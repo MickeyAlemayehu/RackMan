@@ -31,7 +31,13 @@ public class Manager {
     private String password;
 
 
-    public Manager() {
+    public Manager (){
+        managerName = "Robel Fikadu";
+        managerAge = "34";
+        managerPhone = "09 52389210";
+        managerAddress = "AA";
+        username = "Mike12";
+        password = "imtheone";
     }
 
 
